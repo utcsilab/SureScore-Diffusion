@@ -1,0 +1,6 @@
+[submodule "score-diffusion-training"]
+	path = score-diffusion-training
+	url = https://github.com/utcsilab/score-diffusion-training.git
+[submodule "score-diffusion-sampling"]
+	path = score-diffusion-sampling
+	url = https://github.com/utcsilab/score-diffusion-sampling.git
