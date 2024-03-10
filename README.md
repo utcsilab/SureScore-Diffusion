@@ -4,12 +4,6 @@ by [Asad Aali](https://asad-aali.github.io/) and [Jon Tamir](http://users.ece.ut
 Source code for paper [Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data](https://arxiv.org/abs/2305.01166). published in IEEE Asilomar Conference on Signals, Systems &amp; Computers.
 
 # Training
-This repo is inspired by work in the paper [Improved Techniques for Training Score-Based Generative Models](http://arxiv.org/abs/2006.09011). 
-
-by [Yang Song](http://yang-song.github.io/) and [Stefano Ermon](https://cs.stanford.edu/~ermon/), Stanford AI Lab.
-
------------------------------------------------------------------------------------------
-
 We streamline the method proposed in [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600). Score-based generative models are flexible neural networks trained to capture the score function of an underlying data distribution—a vector field pointing to directions where the data density increases most rapidly. We present a generic pipeline for training score-based generative models.
 
 ![samples](assets/FastMRI.png)
