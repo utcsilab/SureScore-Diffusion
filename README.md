@@ -14,7 +14,7 @@ We streamline the method proposed in [Generative Modeling by Estimating Gradient
 
 ![samples](assets/FastMRI.png)
 
-(**From left to right**: Our samples on FastMRI 384x384)
+(**From left to right**: Different reconstruction methods for accelerated FastMRI)
 
 ## Running Experiments
 
@@ -62,42 +62,6 @@ Configuration files are kept in `configs/`. Configuration files are structured a
 
 Models will be saved in `models/`.
 
-## References
-
-```bib
-@article{jalal2021robust,
-  title={Robust Compressed Sensing MRI with Deep Generative Priors},
-  author={Jalal, Ajil and Arvinte, Marius and Daras, Giannis and Price, Eric and Dimakis, Alexandros G and Tamir, Jonathan I},
-  journal={Advances in Neural Information Processing Systems},
-  year={2021}
-}
-```
-
-```bib
-@inproceedings{song2020improved,
-  author    = {Yang Song and Stefano Ermon},
-  editor    = {Hugo Larochelle and
-               Marc'Aurelio Ranzato and
-               Raia Hadsell and
-               Maria{-}Florina Balcan and
-               Hsuan{-}Tien Lin},
-  title     = {Improved Techniques for Training Score-Based Generative Models},
-  booktitle = {Advances in Neural Information Processing Systems 33: Annual Conference
-               on Neural Information Processing Systems 2020, NeurIPS 2020, December
-               6-12, 2020, virtual},
-  year      = {2020}
-}
-```
-
-```bib
-@inproceedings{song2019generative,
-  title={Generative Modeling by Estimating Gradients of the Data Distribution},
-  author={Song, Yang and Ermon, Stefano},
-  booktitle={Advances in Neural Information Processing Systems},
-  pages={11895--11907},
-  year={2019}
-}
-```
 # Sampling
 
 ## Running Experiments
@@ -173,5 +137,18 @@ Samples will be saved in `results/`.
   booktitle={Advances in Neural Information Processing Systems},
   pages={11895--11907},
   year={2019}
+}
+```
+
+```bib
+@article{eldar2008generalized,
+  title={Generalized SURE for exponential families: Applications to regularization},
+  author={Eldar, Yonina C},
+  journal={IEEE Transactions on Signal Processing},
+  volume={57},
+  number={2},
+  pages={471--481},
+  year={2008},
+  publisher={IEEE}
 }
 ```
