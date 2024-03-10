@@ -135,14 +135,10 @@ Samples will be saved in `results/`.
 ```
 
 ```bib
-@article{eldar2008generalized,
-  title={Generalized SURE for exponential families: Applications to regularization},
-  author={Eldar, Yonina C},
-  journal={IEEE Transactions on Signal Processing},
-  volume={57},
-  number={2},
-  pages={471--481},
-  year={2008},
-  publisher={IEEE}
+@article{metzler2018unsupervised,
+  title={Unsupervised learning with Stein's unbiased risk estimator},
+  author={Metzler, Christopher A and Mousavi, Ali and Heckel, Reinhard and Baraniuk, Richard G},
+  journal={arXiv preprint arXiv:1805.10531},
+  year={2018}
 }
 ```
