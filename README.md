@@ -1,7 +1,7 @@
 # SureScore-Diffusion
 by [Asad Aali](https://asadaali.com/) and [Jon Tamir](http://users.ece.utexas.edu/~jtamir/csilab.html), UT CSI Lab.
 
-Source code for paper [Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data](https://ieeexplore.ieee.org/document/10477042), published in IEEE Asilomar Conference on Signals, Systems &amp; Computers.
+Source code for paper [Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data](https://doi.org/10.1109/IEEECONF59524.2023.10477042), published in IEEE Asilomar Conference on Signals, Systems &amp; Computers.
 
 ![samples](assets/FastMRI.png)
 
