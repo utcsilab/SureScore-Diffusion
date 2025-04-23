@@ -1,4 +1,4 @@
-# SureScore-Diffusion | IEEE Asilomar 2023
+# SURE-Score | IEEE Asilomar 2023
 by [Asad Aali](https://asadaali.com/) and [Jon Tamir](http://users.ece.utexas.edu/~jtamir/csilab.html), UT CSI Lab.
 
 Source code for paper [Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data](https://doi.org/10.1109/IEEECONF59524.2023.10477042), published in IEEE Asilomar Conference on Signals, Systems &amp; Computers.
